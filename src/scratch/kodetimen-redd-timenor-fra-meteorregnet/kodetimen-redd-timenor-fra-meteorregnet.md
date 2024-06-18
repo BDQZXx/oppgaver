@@ -33,8 +33,6 @@ når denne figuren klikkes
 send melding(go_right)
 ```
 
-Når denne klikkes
-Send “Gå høyre”
 Nå går du på figuren pilen skal styre, og legger inn følgende kode:
 Når jeg mottar “Gå høyre”
 Gå x steg (her justerer du farten selv, i eksemplet er farten 10)
